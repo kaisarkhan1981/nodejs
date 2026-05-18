@@ -1,4 +1,4 @@
-# 🚀 End-to-End Argo CD GitOps Deployment Guide
+# End-to-End Argo CD GitOps Deployment Guide
 
 ## 1. Overview
 This guide demonstrates how to:
